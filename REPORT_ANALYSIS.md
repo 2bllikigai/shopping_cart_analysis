@@ -11,12 +11,12 @@ Chúng tôi đã thực hiện khai phá dữ liệu giao dịch và trích xu�
 ### a. Top các luật có sức hút mạnh nhất (Theo Lift)
 *Những cặp sản phẩm này kích thích nhau mua sắm mãnh liệt nhất (Khách mua A thì khao khát mua B).*
 
-![Top 5 Lift Rules](../images/top5_lifts_rules.png)
+![Top 5 Lift Rules](/images/top5_lifts_rules.png)
 
 ### b. Top các luật có độ tin cậy cao nhất (Theo Confidence)
 *Nếu khách đã bỏ món A vào giỏ, thì bao nhiêu % chắc chắn họ sẽ lấy tiếp món B?*
 
-![Top 5 Confidence Rules](../images/top5_confidence_rules.png)
+![Top 5 Confidence Rules](/images/top5_confidence_rules.png)
 
 ---
 
